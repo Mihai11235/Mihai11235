@@ -17,10 +17,10 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mihai11235&show_icons=true&locale=en&theme=dracula" alt="Mihai's GitHub Stats" />
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihai11235&layout=compact&locale=en&theme=dracula" alt="Top Langs" />
+ <!--- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mihai11235&show_icons=true&locale=en&theme=dark" alt="Mihai's GitHub Stats" />
+  &nbsp;-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihai11235&layout=compact&locale=en&theme=dark" alt="Top Langs" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mihai11235&theme=dracula" alt="GitHub Streak" />
-</p>
+<!--- <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mihai11235&theme=dark" alt="GitHub Streak" />
+</p>-->
